@@ -1,0 +1,14 @@
+{
+    "lipika.cse15@gmail.com": {
+        "name": "Lipika ",
+        "email": "lipika.cse15@gmail.com",
+        "password": "$2y$10$zfQRbqzWcuANRlOeFNGiFuM4rP0TurrVNrcRjA5hsQGF\/TbZJ187O",
+        "confirm_password": "$2y$10$wrzEzGH8\/XJ8EGu1cHaK8O8gABBXWYgl8Jd4N8Fy7pu9czMWlaf5i"
+    },
+    "reshma@gmail.com": {
+        "name": "Reshma",
+        "email": "reshma@gmail.com",
+        "password": "$2y$10$TAXuWPcHavHQlQAlawL86eZyvM.qVnzyACN8tYzfEdqwPf8wrs4CS",
+        "confirm_password": "$2y$10$WoSSw\/TYGaxUadABVa.PKuyLxECkQ9Zr9HnnOtBr9ljvZ5dxq8yQW"
+    }
+}
